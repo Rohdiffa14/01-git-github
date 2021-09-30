@@ -1,0 +1,20 @@
+git adalah Version Control System tugasnya mencatat setiap perubahan pada file proyek yang sedang kamu kerjakan Jadi kalau file itu diedit git dapat kasih
+tahu apa saja yang berubah Kenapa diubah dan siapa yang mengubahnya.
+  LANGKAH-LANGKAH DALAM MENGINSTAL GIT
+install file GIT di Windows di website resminya
+pastiin tipe Windows mu Apakah 32-bit atau 64-bit 
+Setelah didownload harus di instal dengan cara Klik dua kali file zip yang tadi didownload nanti akan muncul dokumen license dari GIT 
+klik aja next untuk melanjutkan instalasi, Setelah itu pilih lokasi Buat install Git
+setelah itu akan muncul komponen tambahan untuk di-install bareng gitu 
+komponen tambahan ini fungsinya untuk memperlancar penggunaan GIT dan mendukung file dengan kapasitas besar centang aja komponen tambahannya
+terus klik next selanjutnya tulis nama GIT 
+Setelah itu akan disuruh milih file editor file
+kalo udah klik aja next 
+selanjutnya klik aja next buat mili aplikasi
+SSH disini bisa gunain SSH bawaan yaitu Open SSH atau bisa juga gunain SSH dari platform lain
+terus klik install, tunggu dulu bentar sampai instalasi selesai 
+kalau udah kamu harus
+ngecek Apakah GIT udah bener-bener terinstal di komputer 
+caranya dengan menekan tombol Win + R 
+nanti akan muncul command promt
+ketikan perintah --version
